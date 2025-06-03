@@ -1,0 +1,8 @@
+# DSA
+
+This repository contains my work on Data Structures and Algorithms, primarily focusing on Python implementations.
+
+## Modules
+
+1.  [Basic Data Types](Python+DSA/basic-data-types/)
+2.  [Operators](Python+DSA/Operators/) 
