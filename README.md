@@ -6,4 +6,4 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 
 1.  [Basic Data Types](Python+DSA/basic-data-types/)
 2.  [Operators](Python+DSA/Operators/)
-3.  [Control Flow](Python+DSA/ControlFlow/)
+3.  [Control Flow](Python+DSA/Control-Flow/ConditionalStatements.ipynb)
