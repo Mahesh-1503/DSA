@@ -11,4 +11,4 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 
 #### Inbuilt Data Structures
 
-4.  [List](Python+DSA/inbuilt-dataStructures/Lists.ipynb)
+5.  [Lists](Python+DSA/inbuilt-dataStructures/Lists.ipynb)
