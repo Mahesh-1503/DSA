@@ -8,3 +8,7 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 2.  [Operators](Python+DSA/Operators/)
 3.  [Conditional Statements](Python+DSA/Control-Flow/ConditionalStatements.ipynb)
 4.  [Loops](Python+DSA/Control-Flow/Loops.ipynb)
+
+#### Inbuilt Data Structures
+
+4.  [List](Python+DSA/inbuilt-dataStructures/Lists.ipynb)
