@@ -13,3 +13,4 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 
 5.  [Lists](Python+DSA/Lists/Lists.ipynb)
 6.  [Sets](Python+DSA/Sets/sets.ipynb)
+7.  [Sets](Python+DSA/Dictionaries/dictionaries.ipynb)
