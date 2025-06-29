@@ -19,4 +19,4 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 #### Practice Problems
 
 1. [PRACTICE-SET](Python+DSA/Practice-Set/Practice-Set.ipynb)
-2. [INTRODUCTION-PRACTICE-SET](Python+DSA/Practice-Set/Introduction-Practice-Set.ipynb)
+2. [INTRODUCTION-PRACTICE-SET](Python+DSA/Practice-Set/Introduction-Examples.ipynb)
