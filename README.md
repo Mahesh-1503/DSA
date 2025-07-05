@@ -16,6 +16,10 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 7.  [Dictionaries](Python+DSA/Dictionaries/dictionaries.ipynb)
 8.  [Tuples](Python+DSA/Tuples/tuples.ipynb)
 
+#### Functions In Python
+
+9.  [Functions](Python+DSA/Functions/functions.ipynb)
+
 #### Practice Problems
 
 1. [PRACTICE-SET](Python+DSA/Practice-Set/Practice-Set.ipynb)
