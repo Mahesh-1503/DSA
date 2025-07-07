@@ -19,6 +19,7 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 #### Functions In Python
 
 9.  [Functions](Python+DSA/Functions/functions.ipynb)
+10. [Function Examples](Python+DSA/Functions/functionExamples.ipynb)
 
 #### Practice Problems
 
