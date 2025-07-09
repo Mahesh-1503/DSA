@@ -24,7 +24,7 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 12. [Map() Function](Python+DSA/Functions/mapFunction.ipynb)
 13. [Filter() Function](Python+DSA/Functions/filterFunction.ipynb)
 
-### [Code Resources](Python+DSA/Code_Resources/) For Next Classes
+### [Code Resources](Python+DSA/Code_Resources/) For Next Sections
 
 #### Practice Problems
 
