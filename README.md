@@ -20,6 +20,7 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 
 9.  [Functions](Python+DSA/Functions/functions.ipynb)
 10. [Function Examples](Python+DSA/Functions/functionExamples.ipynb)
+11. [Lambda Functions](Python+DSA/Functions/lambdaFunctions.ipynb)
 
 #### Practice Problems
 
