@@ -26,7 +26,7 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 
 #### Code_Resources
 
-14. [Code Resources](Python+DSA/Code_Resources/)
+[Code Resources](Python+DSA/Code_Resources/)
 
 #### Practice Problems
 
