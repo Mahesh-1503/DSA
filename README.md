@@ -29,6 +29,9 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 #### Flowcharts And Problem Solving
 
 14. [Introduction To Flowcharts](Python+DSA/flowCharts_and_problemSolving/Introduction_To_FlowCharts.ipynb)
+15. [Pseudocode](Python+DSA/flowCharts_and_problemSolving/pseudocode.ipynb)
+16. [Framework To Solve A Problem](Python+DSA/flowCharts_and_problemSolving/framework_to_solve_a_problem.ipynb)
+17. [Pattern Practice Questions](Python+DSA/Pattern_Practice_Questions/patternExercises.ipynb)
 
 #### Practice Problems
 
