@@ -38,3 +38,4 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 1. [PRACTICE-SET](Python+DSA/Practice-Set/Practice-Set.ipynb)
 2. [PRACTICE-SET-2](Python+DSA/Practice-Set/Introduction-Examples.ipynb)
 3. [SOLVE 10 LOOPS PROBLEMS](Python+DSA/Practice-Set/loops10problems.ipynb)
+4. [LIST PRACTICE-SET-1](python+DSA/Lists/list_codes.ipynb)
