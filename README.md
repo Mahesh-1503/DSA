@@ -39,6 +39,8 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 19. [Linear Search](Python+DSA/Searching_Sorting_Algorithm/linearSearch.ipynb)
 20. [Binary Search](Python+DSA/Searching_Sorting_Algorithm/BinarySearch.ipynb)
 21. [Bubble Sort](Python+DSA/Searching_Sorting_Algorithm/BubbleSorting.ipynb)
+22. [Selection Sort](Python+DSA/Searching_Sorting_Algorithm/Selection_sort.ipynb)
+23. [Insertion Sort](Python+DSA/Searching_Sorting_Algorithm/Insertion_Sort.ipynb)
 
 #### Practice Problems
 
