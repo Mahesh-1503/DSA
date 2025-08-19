@@ -33,9 +33,17 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 16. [Framework To Solve A Problem](Python+DSA/flowCharts_and_problemSolving/framework_to_solve_a_problem.ipynb)
 17. [Pattern Practice Questions](Python+DSA/Pattern_Practice_Questions/preferPattern.ipynb)
 
+#### Searching And Sorting Algorithm
+
+18. [Introduction To Arrays In Python](Python+DSA/Searching_Sorting_Algorithm/arraysPython.ipynb)
+19. [Linear Search](Python+DSA/Searching_Sorting_Algorithm/linearSearch.ipynb)
+20. [Binary Search](Python+DSA/Searching_Sorting_Algorithm/BinarySearch.ipynb)
+21. [Bubble Sort](Python+DSA/Searching_Sorting_Algorithm/BubbleSorting.ipynb)
+
 #### Practice Problems
 
 1. [PRACTICE-SET](Python+DSA/Practice-Set/Practice-Set.ipynb)
 2. [PRACTICE-SET-2](Python+DSA/Practice-Set/Introduction-Examples.ipynb)
 3. [SOLVE 10 LOOPS PROBLEMS](Python+DSA/Practice-Set/loops10problems.ipynb)
 4. [LIST PRACTICE-SET-1](Python+DSA/Lists/list_codes.ipynb)
+5. [LIST PRACTICE-SET-2](Python+DSA/Lists/list_codes2.ipynb)
