@@ -46,4 +46,4 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 2. [PRACTICE-SET-2](Python+DSA/Practice-Set/Introduction-Examples.ipynb)
 3. [SOLVE 10 LOOPS PROBLEMS](Python+DSA/Practice-Set/loops10problems.ipynb)
 4. [LIST PRACTICE-SET-1](Python+DSA/Lists/list_codes.ipynb)
-5. [LIST PRACTICE-SET-2](Python+DSA/Lists/list_codes2.ipynb)
+5. [LIST PRACTICE-SET-GFG](https://www.geeksforgeeks.org/python/python-list-exercise/)
