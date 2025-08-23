@@ -48,6 +48,8 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
     - [Creating Custom Modules](Python+DSA/ImportingCreatng_Modules_And_Packages/package/)
 25. [Standard Library Overview](Python+DSA/ImportingCreatng_Modules_And_Packages/standardLibrary.ipynb)
 
+25. [File Handling In Python](Python+DSA/FileHandling/filesOperations.ipynb)
+
 #### Practice Problems
 
 1. [PRACTICE-SET](Python+DSA/Practice-Set/Practice-Set.ipynb)
