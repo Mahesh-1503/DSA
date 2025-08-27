@@ -53,6 +53,9 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 26. [File Handling In Python](Python+DSA/FileHandling/filesOperations.ipynb)
 27. [Working With File Paths](Python+DSA/Working_with_filePaths/working_with_filePaths.ipynb)
 
+#### Exception Handling
+
+28. [Exception Handling](Python+DSA/Exception%20Handling/Exception_Handling.ipynb)
 
 #### Practice Problems
 
