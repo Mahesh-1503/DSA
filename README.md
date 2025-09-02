@@ -60,6 +60,14 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 #### OOPS Concepts With Classes And Objects
 
 29. [Classes And Objects](Python+DSA/OOPS%20Concepts/classesAndobjects.ipynb)
+30. [Inheritance](Python+DSA/OOPS%20Concepts/Inheritance.ipynb)
+31. [Polymorphism](Python+DSA/OOPS%20Concepts/Polymorphism.ipynb)
+32. [Encapsulation](Python+DSA/OOPS%20Concepts/Encapsulation.ipynb)
+33. [Abstraction](Python+DSA/OOPS%20Concepts/Abstraction.ipynb)
+34. [Magic Method in Python](Python+DSA/OOPS%20Concepts/Magic_method.ipynb)
+35. [Operator Overloading](Python+DSA/OOPS%20Concepts/Operator_Overloading.ipynb)
+36. [Custom Exception Handling](Python+DSA/OOPS%20Concepts/custom_exception_handling.ipynb)
+
 
 #### Practice Problems
 
