@@ -70,7 +70,7 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 37. [Custom Exception Handling](Python+DSA/OOPS%20Concepts/custom_exception_handling.ipynb)
 
 #### Iterators And Generators
-38. [Iterators](./Python+DSA/Iterator/iterators.ipynb)
+38. [Iterators](./Python+DSA/Iterators%20And%20Generators/iterators.ipynb)
 
 #### Practice Problems
 
