@@ -56,6 +56,7 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 #### Exception Handling
 
 28. [Exception Handling](Python+DSA/Exception%20Handling/Exception_Handling.ipynb)
+29. [Exception Handling 2](Python+DSA/Exception%20Handling/exception_handling-1.ipynb)
 
 #### OOPS Concepts With Classes And Objects
 
