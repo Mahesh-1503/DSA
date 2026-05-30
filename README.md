@@ -78,6 +78,8 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 
 #### Time and Space Complexity
 41. [Time and Space Complexity](./Python+DSA/Time%20and%20Space%20Complexity/timeSpaceComplexity.ipynb)
+42. [What is TLE](./Python+DSA/Time%20and%20Space%20Complexity/TLE.ipynb)
+43. [Time Complexity Of Common Python Operators](./Python+DSA/Time%20and%20Space%20Complexity/TC_commonPYoperators.ipynb)
 
 #### Practice Problems
 
