@@ -81,6 +81,9 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 42. [What is TLE](./Python+DSA/Time%20and%20Space%20Complexity/TLE.ipynb)
 43. [Time Complexity Of Common Python Operators](./Python+DSA/Time%20and%20Space%20Complexity/TC_commonPYoperators.ipynb)
 
+#### Recursion
+44. [Recursion](./Python+DSA/Recursion/)
+
 #### Practice Problems
 
 1. [PRACTICE-SET](Python+DSA/Practice-Set/Practice-Set.ipynb)
