@@ -82,7 +82,7 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 43. [Time Complexity Of Common Python Operators](./Python+DSA/Time%20and%20Space%20Complexity/TC_commonPYoperators.ipynb)
 
 #### Recursion
-44. [Recursion](./Python+DSA/Recursion/)
+44. [Recursion](./Python+DSA/Recursion/01Recursion.ipynb)
 
 #### Practice Problems
 
