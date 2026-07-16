@@ -71,23 +71,22 @@ This repository contains my work on Data Structures and Algorithms, primarily fo
 38. [Custom Exception Handling](Python+DSA/OOPS%20Concepts/custom_exception_handling.ipynb)
 
 #### Iterators And Generators
-39. [Iterators](./Python+DSA/Iterators%20And%20Generators/iterators.ipynb)
-
-#### Generators
-40. [Loading.....]
+39. [Iterators And Generators](./Python+DSA/Iterators%20And%20Generators/iterators.ipynb)
 
 #### Time and Space Complexity
 41. [Time and Space Complexity](./Python+DSA/Time%20and%20Space%20Complexity/timeSpaceComplexity.ipynb)
 42. [What is TLE](./Python+DSA/Time%20and%20Space%20Complexity/TLE.ipynb)
 43. [Time Complexity Of Common Python Operators](./Python+DSA/Time%20and%20Space%20Complexity/TC_commonPYoperators.ipynb)
-    
-#### Linked List
-44. [Single Linked List](./Python+DSA/Linked%20List/Single%20Linked%20List/)
-45. [Doubly Linked List](./Python+DSA/Linked%20List/Doubly%20Linked%20List/)
-46. [Circular Linked List](./Python+DSA/Linked%20List/Circular%20Linked%20List/)
 
 #### Recursion
-44. [Recursion](./Python+DSA/Recursion/01Recursion.ipynb)
+44.  [Recursion](./Python+DSA/Recursion/01Recursion.ipynb)
+    
+#### Linked List
+45. [Single Linked List](./Python+DSA/Linked%20List/Single%20Linked%20List/)
+46. [Doubly Linked List](./Python+DSA/Linked%20List/Doubly%20Linked%20List/)
+47. [Circular Linked List](./Python+DSA/Linked%20List/Circular%20Linked%20List/)
+
+
 
 #### Practice Problems
 
